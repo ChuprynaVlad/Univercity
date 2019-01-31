@@ -1,0 +1,6 @@
+c:\users\windows 10\source\repos\Pifagor\Pifagor\bin\Debug\Pifagor.pdb
+c:\users\windows 10\source\repos\Pifagor\Pifagor\obj\Debug\Pifagor.csprojAssemblyReference.cache
+c:\users\windows 10\source\repos\Pifagor\Pifagor\obj\Debug\Pifagor.csproj.CoreCompileInputs.cache
+c:\users\windows 10\source\repos\Pifagor\Pifagor\obj\Debug\Pifagor.pdb
+c:\users\windows 10\source\repos\Pifagor\Pifagor\bin\Debug\Pifagor.exe
+c:\users\windows 10\source\repos\Pifagor\Pifagor\obj\Debug\Pifagor.exe
