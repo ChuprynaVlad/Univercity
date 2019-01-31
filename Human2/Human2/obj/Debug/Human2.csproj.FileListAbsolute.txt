@@ -1,0 +1,7 @@
+C:\Users\Windows 10\source\repos\Human2\Human2\obj\Debug\Human2.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\Human2\Human2\obj\Debug\Human2.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\Human2\Human2\bin\Debug\Human2.exe.config
+C:\Users\Windows 10\source\repos\Human2\Human2\bin\Debug\Human2.exe
+C:\Users\Windows 10\source\repos\Human2\Human2\bin\Debug\Human2.pdb
+C:\Users\Windows 10\source\repos\Human2\Human2\obj\Debug\Human2.exe
+C:\Users\Windows 10\source\repos\Human2\Human2\obj\Debug\Human2.pdb
