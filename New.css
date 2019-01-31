@@ -1,0 +1,33 @@
+a {
+   color:red;
+font-size: 25px;
+display: block;
+border-radius:10px;
+background-color: aqua;
+text-align: center;
+width: 500px;
+height: 100px:
+   }
+   
+div {
+	color:#1e4440;
+}
+body {
+    line-height: 1.5;
+   }
+   P {
+    line-height: 0.9em;
+   }
+h1 {
+	background-color:#6ffc99;
+    color:	white;
+    border: 3px solid grey;
+    border-radius: 30px;
+    opacity: 0.5;
+    box-shadow: 3px 3px 7px black;
+    height: 100px
+}
+h1:hover {
+	opacity :1; 
+	background-color:red;
+}
