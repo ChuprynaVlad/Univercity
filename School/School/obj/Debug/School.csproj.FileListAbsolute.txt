@@ -1,0 +1,7 @@
+C:\Users\Windows 10\source\repos\School\School\bin\Debug\School.exe.config
+C:\Users\Windows 10\source\repos\School\School\bin\Debug\School.exe
+C:\Users\Windows 10\source\repos\School\School\bin\Debug\School.pdb
+C:\Users\Windows 10\source\repos\School\School\obj\Debug\School.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\School\School\obj\Debug\School.exe
+C:\Users\Windows 10\source\repos\School\School\obj\Debug\School.pdb
