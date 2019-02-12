@@ -1,0 +1,11 @@
+C:\Users\Windows 10\source\repos\Dmo. TDDCollection\Dmo. TDDCollection\bin\Debug\netcoreapp2.1\Dmo. TDDCollection.deps.json
+C:\Users\Windows 10\source\repos\Dmo. TDDCollection\Dmo. TDDCollection\bin\Debug\netcoreapp2.1\Dmo. TDDCollection.runtimeconfig.json
+C:\Users\Windows 10\source\repos\Dmo. TDDCollection\Dmo. TDDCollection\bin\Debug\netcoreapp2.1\Dmo. TDDCollection.runtimeconfig.dev.json
+C:\Users\Windows 10\source\repos\Dmo. TDDCollection\Dmo. TDDCollection\bin\Debug\netcoreapp2.1\Dmo. TDDCollection.dll
+C:\Users\Windows 10\source\repos\Dmo. TDDCollection\Dmo. TDDCollection\bin\Debug\netcoreapp2.1\Dmo. TDDCollection.pdb
+C:\Users\Windows 10\source\repos\Dmo. TDDCollection\Dmo. TDDCollection\obj\Debug\netcoreapp2.1\Dmo. TDDCollection.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\Dmo. TDDCollection\Dmo. TDDCollection\obj\Debug\netcoreapp2.1\Dmo. TDDCollection.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\Dmo. TDDCollection\Dmo. TDDCollection\obj\Debug\netcoreapp2.1\Dmo. TDDCollection.AssemblyInfoInputs.cache
+C:\Users\Windows 10\source\repos\Dmo. TDDCollection\Dmo. TDDCollection\obj\Debug\netcoreapp2.1\Dmo. TDDCollection.AssemblyInfo.cs
+C:\Users\Windows 10\source\repos\Dmo. TDDCollection\Dmo. TDDCollection\obj\Debug\netcoreapp2.1\Dmo. TDDCollection.dll
+C:\Users\Windows 10\source\repos\Dmo. TDDCollection\Dmo. TDDCollection\obj\Debug\netcoreapp2.1\Dmo. TDDCollection.pdb
