@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Название сайта)</title> 
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta content="" name="keywords">
+	<meta content="" name="description">
+	<link href='css/style.css' rel='stylesheet' type='text/css'>
+</head>
+<body>
+	<div class="wrap">
+    	<header class="clearfix">
+        	<div class="logo">NeMetanit.com</div>
+        </header>
+        <nav>
+        	<ul class="clearfix">
+            	<li><a href="#">Главная</a></li>
+                <li><a href="#">О компании</a></li>
+                <li><a href="#">Курсы</a>
+                	<ul>
+                    	<li><a href="#">С#/.Net</a></li>
+                        <li><a href="#">Java</a></li>
+                        <li><a href="#">Web</a></li>
+                        <li><a href="#">C/C++</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Тарифы</a></li>
+                <li><a href="#">Контакты</a></li>
+            </ul>
+        </nav>
+        <section>
+        	<h1>UnitTest</h1>
+        	<p>Модульное тестирование, или юнит-тестирование (англ. unit testing) — процесс в программировании, позволяющий проверить на корректность отдельные модули исходного кода программы.
+
+Идея состоит в том, чтобы писать тесты для каждой нетривиальной функции или метода. Это позволяет достаточно быстро проверить, не привело ли очередное изменение кода к регрессии, то есть к появлению ошибок в уже оттестированных местах программы, а также облегчает обнаружение и устранение таких ошибок.
+            </p>
+
+			
+			<h1>Пример UnitTest</h1>
+			<pre>
+				using System;
+    using System.Text;
+    using System.Collections.Generic;
+    using System.Linq;
+    using Microsoft.VisualStudio.TestTools.UnitTesting;
+
+    namespace TestMinApp
+    {
+        /// <summary>
+        /// Summary description for UnitTest1
+        /// </summary>
+        [TestClass]
+		public class UnitTest1
+		{
+			public UnitTest1()
+			{
+				//
+				// TODO: Add constructor logic here
+				//
+			}
+
+			private TestContext testContextInstance;
+			/// <summary>
+			///Gets or sets the test context which provides
+			///information about and functionality for the current test run.
+			///</summary>
+			public TestContext TestContext
+			{
+				get
+				{
+					return testContextInstance;
+				}
+				set
+				{
+					testContextInstance = value;
+				}
+			}
+
+			#region Additional test attributes
+			//
+			// You can use the following additional attributes as you write your tests:
+			//
+			// Use ClassInitialize to run code before running the first test in the class
+			// [ClassInitialize()]
+			// public static void MyClassInitialize(TestContext testContext) { }
+			//
+			// Use ClassCleanup to run code after all tests in a class have run
+			// [ClassCleanup()]
+			// public static void MyClassCleanup() { }
+			//
+			// Use TestInitialize to run code before running each test
+			// [TestInitialize()]
+			// public void MyTestInitialize() { }
+			//
+			// Use TestCleanup to run code after each test has run
+			// [TestCleanup()]
+			// public void MyTestCleanup() { }
+			//
+			#endregion
+
+			[TestMethod]
+			public void TestMethod1()
+			{
+				//
+				// TODO: Add test logic here
+				//
+			}
+		}
+	}
+				</pre>
+				
+			<h1>Тестируйте одну вещь за один раз</h1>
+			<p> 
+			
+			
+Каждый тест должен проверять только одну вещь. Если процесс слишком сложен (например, покупка в интернет магазине), разделите его на несколько частей и протестируйте их отдельно.
+Если вы не будете придерживаться этого правила, ваши тесты станут нечитаемыми, и вскоре вам окажется очень сложно их поддерживать.
+
+			</p>
+			<h1>Производительность</h1>
+			
+			<p>
+			
+Существует ряд задач, когда архитектурой приходится жертвовать в угоду производительности, и для кого-то это становится поводом отказаться от тестирования. В моей практике докинуть сервер/проапгрейдить железо всегда было дешевле, чем писать нетестируемый код. Если у вас есть критический участок, вероятно, стоит переписать его на более низком уровне. Ваше приложение на C#? Возможно, есть смысл собрать одну неуправляемую сборку на С++.
+			
+        
+		
+		
+		</section>
+        <footer>
+        	&copy; 2019
+        </footer>
+    </div>
+</body>
+</html>
