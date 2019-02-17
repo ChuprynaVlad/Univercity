@@ -1,0 +1,7 @@
+C:\Users\Windows 10\source\repos\List\List\obj\Debug\List.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\List\List\bin\Debug\List.exe.config
+C:\Users\Windows 10\source\repos\List\List\bin\Debug\List.exe
+C:\Users\Windows 10\source\repos\List\List\bin\Debug\List.pdb
+C:\Users\Windows 10\source\repos\List\List\obj\Debug\List.exe
+C:\Users\Windows 10\source\repos\List\List\obj\Debug\List.pdb
